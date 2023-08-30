@@ -1,4 +1,4 @@
-![](assets/Bottom_up.svg)
+![](./assets/bambou.jpeg)
 
 <!-- Header -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Even+SOULARD;+Welcome+to+My+Profile!;Passionate+and+committed+developer;I+strive+to+ensure+impeccable+quality;Over+4+years+of+programming+experience;Always+learning+new+things+;)](https://git.io/typing-svg)
@@ -15,7 +15,3 @@
 | **Databases**                                   | ![Postgresql Badge](https://img.shields.io/badge/-Postgresql-336791?style=flat&logo=PostgreSQL&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
 
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-<!-- [![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BEPb&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph) -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
